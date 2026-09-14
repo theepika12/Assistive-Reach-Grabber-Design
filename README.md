@@ -67,7 +67,7 @@ The design incorporated several key components:
 - **Modular interchangeable tops** for different objects and tasks
 - **Folding mechanism** for easier transportation
 
-![Final Design](images/Final.png)
+[Final Design](images/Final.png)
 
 *Final Reacher Grabber*
 
