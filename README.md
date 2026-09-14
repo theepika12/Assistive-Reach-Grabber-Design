@@ -34,11 +34,9 @@ The final design had to meet several requirements:
 The project began with brainstorming and sketching different concepts for the reach grabber. I contributed to the early design process by creating initial sketches and exploring possible mechanisms for the final device.
 
 ![Base](images/BaseSketch.png)
-
 *Base Part of Rough Sketch*
 
 ![Tops](images/TopsSketch.png)
-
 *Tops of Rough Sketch*
 
 ## Low-Fidelity Prototype
@@ -46,11 +44,9 @@ The project began with brainstorming and sketching different concepts for the re
 Low-fidelity prototypes were created to test and evaluate the proposed design before developing the final prototype. I contributed to creating and evaluating these early prototypes.
 
 ![ProtoRetracted](images/proto1.png)
-
 *Low Fidelity Prototype (Retracted)*
 
 ![ProtoExtended](images/proto2.png)
-
 *Low Fidelity Prototype (Extended)*
 
 The prototyping process helped us evaluate the portability and folding mechanism while identifying areas for improvement before developing the final design.
@@ -68,7 +64,6 @@ The design incorporated several key components:
 - **Folding mechanism** for easier transportation
 
 ![Final](images/Final.png)
-
 *Final Reacher Grabber*
 
 ## Testing & Evaluation
